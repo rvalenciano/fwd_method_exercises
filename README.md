@@ -5,7 +5,7 @@ La idea es crear los metodos requeridos basados en los hints que se proveen en l
 La idea es que el estudiante debe:
 
 0. Crear sus propios metodos.
-1. Invocar pruebas unitarias que prueben esos metodos. La forma de hacerlo es corriendo los comandos:
+1. Invocar pruebas unitarias que prueben esos metodos. La forma de hacerlo es corriendo los siguientes comandos en la terminal:
 
 ```rb
 bundle install
